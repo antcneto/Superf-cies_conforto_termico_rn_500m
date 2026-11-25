@@ -178,7 +178,7 @@ Código distribuído sob a licença MIT. Os dados de terceiros (INMET, EMPARN, I
 
 Antônio Campos Neto, Licenciado em Geografia, Universidade Federal do Rio Grande do Norte (UFRN).
 
-Dúvidas e problemas podem ser registrados na aba *Issues* deste repositório.
+Dúvidas e problemas podem ser registrados na aba *Issues* deste repositório, ou por email: antoniocamposneto9@gmail.com
 
 ## English summary
 
